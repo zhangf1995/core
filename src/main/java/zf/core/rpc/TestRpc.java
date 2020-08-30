@@ -1,4 +1,4 @@
-package zf.core;
+package zf.core.rpc;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;

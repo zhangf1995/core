@@ -12,3 +12,6 @@ server:
 spring:
   application:
     name: coreOne
+
+sentinle:
+  qps: 10
